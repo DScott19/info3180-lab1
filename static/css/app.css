@@ -2,9 +2,17 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 14px;
   line-height: 1.5;
+  background-image: url("https://jooinn.com/images/close-up-of-yellow-flowers-growing-in-field-at-sunset.jpg");
+  background-repeat: no-repeat;
+  background-color: #03a9f4;
+
 }
 
 .container {
   max-width: 960px;
   margin: 0 auto;
+}
+
+h1{
+	color: blue;
 }
